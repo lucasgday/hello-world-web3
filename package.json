@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@nomiclabs/hardhat-etherscan": "^3.0.0",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "dotenv": "^10.0.0"
+  }
+}
